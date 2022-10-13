@@ -2,7 +2,8 @@
 
 In this project, I explore more than 200,000 questions of American TV show Jeopardy from the years 1984 - 2012. Goal is to explore if there is something to learn from these questions.... in case you want to prepare yourself for winning!
 
-This project was a 'guided project' as part of learning data analytics with [Dataquest](www.dataquest.io).
+This project was a 'guided project' as part of learning data analytics with [Dataquest](https://www.dataquest.io).
+
 
 ## Results
 
@@ -12,7 +13,7 @@ To display the result, simply [click the .ipynb file](https://github.com/jasperq
 
 In case you want to reproduce the project in a Jupyter Notebook in your own environment.
 
-Download both the .ipynb file and the .csv file in the same folder.
+Download both the .ipynb file and the .zip file. Unpack the .zip file, into the same folder at the .ipynb file.
 
 Before starting Jupyter Notebook, ensure that you have the following packages installed:
 * pandas
